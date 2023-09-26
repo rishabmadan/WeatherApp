@@ -1,0 +1,49 @@
+/* Weather.css */
+
+.Weather {
+    text-align: center;
+    padding: 2rem;
+    background-color: #3498db;
+    color: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    max-width: 400px;
+    margin: 0 auto;
+    animation: fadeIn 1s ease-in-out;
+  }
+  
+  .Weather input[type="text"] {
+    padding: 0.5rem;
+    border: none;
+    border-radius: 4px;
+    width: 100%;
+    font-size: 16px;
+    margin-bottom: 1rem;
+  }
+  
+  .Weather h1 {
+    font-size: 24px;
+    margin-bottom: 1rem;
+  }
+  
+  .WeatherDetails h2 {
+    font-size: 28px;
+    margin: 0;
+  }
+  
+  .Temperature {
+    font-size: 36px;
+    margin: 0.5rem 0;
+  }
+  
+  .WeatherDetails p {
+    font-size: 18px;
+    margin: 0;
+  }
+  
+  .WeatherIcons img {
+    width: 100px;
+    height: 100px;
+    margin-top: 1rem;
+  }
+  
